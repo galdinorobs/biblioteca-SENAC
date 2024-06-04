@@ -17,7 +17,7 @@
                 Cadastro
               </a>
               <ul class="dropdown-menu">
-                <li><a class="dropdown-item" href="#">Cadastrar Usuário</a></li>
+                <li><a class="dropdown-item" href="cadastrar_usuarios.php">Cadastrar Usuário</a></li>
                 <li><a class="dropdown-item" href="#">Cadastrar Livro</a></li>
               </ul>
               
